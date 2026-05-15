@@ -4,17 +4,14 @@ Projects
 .reg
 .br .\"line break
 
-.ssec "Run-length encoding (C)" ""
+.ssec "QuakeWatcher (Android/Java)" "https://github.com/victordmontero/QuakeStalker"
 .br
 .small
-Utilizes RLE encoding to encrypt and decrepit a given file
+An Android App that lists latests Earthquakes.
+Fetches data from https://earthquake.usgs.gov/ service.
+Uses Dagger DI, Data Binding, MVVM Architecture Pattern.
 
-.ssec "StrokeMonitor (C++)"
+.ssec "AllyTalkie (Android/Java)"
 .br
 .small
-Using an arduino this monitors the users strokerate, speed, and distance traveled in a canoe or kayak
-
-.ssec "Filesystem-Emu (Java)"
-.br .\" line break
-.small
-FAT based file system simulated using in Java
+It Uses WIFI to communicate with other peers, just like a walkie talkie.
