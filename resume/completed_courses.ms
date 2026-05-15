@@ -17,5 +17,3 @@ Algorithms and Data Structures 2
 .bul
 Software Development Methods
 .RE
-.reg
-.sp .4

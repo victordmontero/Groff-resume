@@ -1,3 +1,3 @@
-.tit "Gavin Jaeger-Freeborn" "Calgary, AB" "(403) 919-9518 | Email: gavinfreeborn@gmail.com | Github: Gavinok"
+.tit "Victor D. Montero Adames" "Getafe, Madrid" "+34 (614) 323-567 | Email: victordmontero@hotmail.com | Github: victordmontero"
 
 .sp .9
